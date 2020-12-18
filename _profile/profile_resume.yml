@@ -41,7 +41,7 @@ basics:
     render: true
   summary:
     label: About me
-    value: 'I'm currently a Data Scientist hired by simplyBrand.com, my main interest in Deep Learning is application in NLP and image process.'
+    value: 'I am currently a Data Scientist employed by simplyBrand.com, my main interest in Deep Learning is application in NLP and image process.'
     render: true
   location:
     value:
